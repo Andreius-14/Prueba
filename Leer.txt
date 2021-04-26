@@ -11,3 +11,6 @@
 ____________________________________________________________________________
 
 1.Punto De Partida
+
+	Sendero del Nuevo Punto de Partida
+	La Ruta Roja  Rama4;
