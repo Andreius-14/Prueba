@@ -5,3 +5,5 @@
 2.Borrado lo escrito
 
 3.Prueba de Rama si Sale acorde al Plan
+
+4. Añadiendo Informacion desde El Escritorio... Si es q tiene Sentido..
